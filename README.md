@@ -1,2 +1,0 @@
-# SWS
-Smart water system
